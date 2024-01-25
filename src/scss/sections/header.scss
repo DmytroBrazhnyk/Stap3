@@ -4,7 +4,7 @@
 .header_container{
     width: 100%;
     height: 718px;
-    background-image: url("/img/headerimg\ 3.png");
+    background-image: url("../img/headerimg\ 3.png");
     background-position: center;
     background-size: cover;
 }
@@ -208,7 +208,7 @@
     }
     .header_container{
         height: 800px;
-        background-image: url("/img/headerimg\ 2.png");
+        background-image: url("../img/headerimg\ 2.png");
     }
     .forkApp{
         padding-top: 68px;
@@ -274,7 +274,7 @@
 @media(min-width : 993px){
     .header_container{
         height: 800px;
-        background-image: url("/img/header_img\ 1.png");
+        background-image: url("../img/header_img_1.png");
     }
     .header_nav_container{
         background: none;
